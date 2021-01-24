@@ -1,22 +1,22 @@
 # Project Directory
 
-A list of all my projects on Github
+A list of all my projects on Github.
 
 **C**
-- [Connect 4] (https://github.com/noelledons/connect-4)
-- [CV Template] (https://github.com/noelledons/cv-template)
-
+- [Connect 4](https://github.com/noelledons/connect-4)
+- [CV Template](https://github.com/noelledons/cv-template)
+<br>
 **G**
-- [Guide to Ghana} (https://github.com/noelledons/ghana-guide)
-
+- [Guide to Ghana](https://github.com/noelledons/ghana-guide)
+<br>
 **M**
-- [Meditation App] (https://github.com/noelledons/meditationapp.github.io) (JavaScript)
-
+- [Meditation App](https://github.com/noelledons/meditationapp.github.io) (JavaScript)
+<br>
 **P**
-- [Ping Pong] (https://github.com/noelledons/ping-pong)
-
+- [Ping Pong](https://github.com/noelledons/ping-pong)
+<br>
 **S**
-- [Standard/Scientific Calculator] (https://github.com/noelledons/sci-stnd-calculator)
-
+- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator)
+<br>
 **T**
-- [Task Manager] (https://github.com/noelledons/task-manager) (React)
+- [Task Manager](https://github.com/noelledons/task-manager) (React)
