@@ -25,4 +25,4 @@ A list of all my projects on Github.
 
 **T**
 - [Task Manager](https://github.com/noelledons/task-manager) (React)
-- [Travel to Ghana](https://noelledons.github.io/travel-to-ghana/) (JavaScript)
+- [Travel to Ghana](https://github.com/noelledons/travel-to-ghana) (JavaScript)
