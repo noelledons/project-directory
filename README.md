@@ -8,11 +8,6 @@ A list of all my projects on Github.
 
 <br>
 
-**G**
-- [Guide to Ghana](https://github.com/noelledons/ghana-guide)
-
-<br>
-
 **M**
 - [Meditation App](https://github.com/noelledons/meditationapp.github.io) (JavaScript)
 
@@ -30,3 +25,4 @@ A list of all my projects on Github.
 
 **T**
 - [Task Manager](https://github.com/noelledons/task-manager) (React)
+- [Travel to Ghana](https://noelledons.github.io/travel-to-ghana/) (JavaScript)
