@@ -1,9 +1,11 @@
 # Project Directory
 
 A list of all my projects on Github.
-
+<br>
 **B**
 - [BBC News Website]{https://github.com/noelledons/bbc-website)
+
+<br>
 
 **C**
 - [Connect 4](https://github.com/noelledons/connect-4)
