@@ -3,7 +3,7 @@
 A list of all my projects on Github.
 <br>
 **B**
-- [BBC News Website]{https://github.com/noelledons/bbc-website)
+- [BBC News Website](https://github.com/noelledons/bbc-website)
 
 <br>
 
