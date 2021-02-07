@@ -5,12 +5,12 @@ A list of all my projects on Github.
 <br>
 
 **B**
-- [BBC News Website](https://github.com/noelledons/bbc-website) (HTML/CSS/JavaScript)
+- [BBC News Website](https://github.com/noelledons/bbc-website) - Tech used: HTML, CSS & Javascript
 
 <br>
 
 **C**
-- [Connect 4](https://github.com/noelledons/connect-4) (Python)
+- [Connect 4](https://github.com/noelledons/connect-4) - Tech used: Python
 - [CV Template](https://github.com/noelledons/cv-template) (HTML/CSS)
 
 <br>
