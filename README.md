@@ -5,13 +5,13 @@ A list of all my projects on Github.
 <br>
 
 **B**
-- [BBC News Website](https://github.com/noelledons/bbc-website)
+- [BBC News Website](https://github.com/noelledons/bbc-website) (HTML/CSS/JavaScript)
 
 <br>
 
 **C**
-- [Connect 4](https://github.com/noelledons/connect-4)
-- [CV Template](https://github.com/noelledons/cv-template)
+- [Connect 4](https://github.com/noelledons/connect-4) (Python)
+- [CV Template](https://github.com/noelledons/cv-template) (HTML/CSS)
 
 <br>
 
@@ -21,12 +21,12 @@ A list of all my projects on Github.
 <br>
 
 **P**
-- [Ping Pong](https://github.com/noelledons/ping-pong)
+- [Ping Pong](https://github.com/noelledons/ping-pong) (Python)
 
 <br>
 
 **S**
-- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator)
+- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator) (Python)
 
 <br>
 
