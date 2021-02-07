@@ -5,31 +5,31 @@ A list of all my projects on Github.
 <br>
 
 **B**
-- [BBC News Website](https://github.com/noelledons/bbc-website) - Tech used: HTML, CSS & Javascript
+- [BBC News Website](https://github.com/noelledons/bbc-website)
 
 <br>
 
 **C**
-- [Connect 4](https://github.com/noelledons/connect-4) - Tech used: Python
-- [CV Template](https://github.com/noelledons/cv-template) (HTML/CSS)
+- [Connect 4](https://github.com/noelledons/connect-4)
+- [CV Template](https://github.com/noelledons/cv-template)
 
 <br>
 
 **M**
-- [Meditation App](https://github.com/noelledons/meditationapp.github.io) (JavaScript)
+- [Meditation App](https://github.com/noelledons/meditationapp.github.io)
 
 <br>
 
 **P**
-- [Ping Pong](https://github.com/noelledons/ping-pong) (Python)
+- [Ping Pong](https://github.com/noelledons/ping-pong)
 
 <br>
 
 **S**
-- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator) (Python)
+- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator)
 
 <br>
 
 **T**
-- [Task Manager](https://github.com/noelledons/task-manager) (React)
-- [Travel to Ghana](https://github.com/noelledons/travel-to-ghana) (JavaScript)
+- [Task Manager](https://github.com/noelledons/task-manager) (React App)
+- [Travel to Ghana](https://github.com/noelledons/travel-to-ghana)
