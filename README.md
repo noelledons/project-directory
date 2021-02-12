@@ -15,6 +15,11 @@ A list of all my projects on Github.
 
 <br>
 
+**L**
+- [Login Authentication](https://github.com/noelledons/login-authentication)
+
+<br>
+
 **M**
 - [Meditation App](https://github.com/noelledons/meditationapp.github.io)
 
