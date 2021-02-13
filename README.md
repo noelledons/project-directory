@@ -1,6 +1,6 @@
 # :computer: Project Directory
 
-A list of all my projects on Github.
+A list of all my projects on Github. You can also view my portfolio website [here](https://noelledonkor.com)! :smile:
 
 <br>
 
@@ -31,7 +31,7 @@ A list of all my projects on Github.
 <br>
 
 **R**
-- [Roll the Dice]()
+- [Roll the Dice](https://github.com/noelledons/roll-the-dice)
 
 <br>
 
