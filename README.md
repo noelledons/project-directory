@@ -30,6 +30,11 @@ A list of all my projects on Github.
 
 <br>
 
+**R**
+- [Roll the Dice]()
+
+<br>
+
 **S**
 - [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator)
 
