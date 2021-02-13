@@ -1,4 +1,4 @@
-# Project Directory
+# :computer: Project Directory
 
 A list of all my projects on Github.
 
