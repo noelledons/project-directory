@@ -42,4 +42,4 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 **T**
 - [Task Manager](https://github.com/noelledons/task-manager) (React App)
-- [Travel to Ghana](https://github.com/noelledons/travel-to-ghana) (JavaScript)
+- [Travel to Ghana Website](https://github.com/noelledons/travel-to-ghana) (JavaScript)
