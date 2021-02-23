@@ -16,7 +16,7 @@ A list of all my projects on Github. You can also view my portfolio website [her
 <br>
 
 **D**
-- [Drum Kit]() (JavaScript)
+- [Drum Kit](https://github.com/noelledons/drum-kit) (JavaScript)
 
 <br>
 
