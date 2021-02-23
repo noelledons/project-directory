@@ -15,6 +15,11 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 <br>
 
+**D**
+- [Drum Kit]() (JavaScript)
+
+<br>
+
 **L**
 - [Login Authentication](https://github.com/noelledons/login-authentication) (JavaScript)
 
