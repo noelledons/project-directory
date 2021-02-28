@@ -11,7 +11,7 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 **C**
 - [Connect 4](https://github.com/noelledons/connect-4) (Python)
-- [CV Template](https://github.com/noelledons/cv-template)
+- [CV](https://github.com/noelledons/cv-template)
 
 <br>
 
@@ -41,7 +41,7 @@ A list of all my projects on Github. You can also view my portfolio website [her
 <br>
 
 **S**
-- [Standard/Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator) (Python)
+- [Standard & Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator) (Python)
 
 <br>
 
