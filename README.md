@@ -11,6 +11,7 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 **C**
 - [Connect 4](https://github.com/noelledons/connect-4) (Python)
+- [Curls Website](https://github.com/noelledons/curls-website)
 - [CV](https://github.com/noelledons/cv-template)
 
 <br>
