@@ -4,11 +4,6 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 <br>
 
-**B**
-- [BBC News Website](https://github.com/noelledons/bbc-website)
-
-<br>
-
 **C**
 - [Connect 4](https://github.com/noelledons/connect-4) (Python)
 - [Curls Website](https://github.com/noelledons/curls-website)
