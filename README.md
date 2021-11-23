@@ -5,7 +5,6 @@ A list of all my projects on Github. You can also view my portfolio website [her
 <br>
 
 **C**
-- [Connect 4](https://github.com/noelledons/connect-4) (Python)
 - [Curls Website](https://github.com/noelledons/curls-website)
 - [CV](https://github.com/noelledons/cv-template)
 
@@ -26,18 +25,8 @@ A list of all my projects on Github. You can also view my portfolio website [her
 
 <br>
 
-**P**
-- [Ping Pong](https://github.com/noelledons/ping-pong) (Python)
-
-<br>
-
 **R**
 - [Roll the Dice](https://github.com/noelledons/roll-the-dice) (JavaScript)
-
-<br>
-
-**S**
-- [Standard & Scientific Calculator](https://github.com/noelledons/sci-stnd-calculator) (Python)
 
 <br>
 
