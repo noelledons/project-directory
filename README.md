@@ -1,35 +1,23 @@
 # :computer: Project Directory
 
-A list of all my projects on Github. You can also view my portfolio website [here](https://noelledonkor.com)! :smile:
+A list of all my projects on Github. 
 
-<br>
+You can also view my portfolio website [here](https://noelledonkor.com)! :smile:
 
-**C**
-- [Curls Website](https://github.com/noelledons/curls-website)
-- [CV](https://github.com/noelledons/cv-template)
+### :hammer_and_wrench: In progress
 
-<br>
+:small_blue_diamond:[Hair E-commerce store](https://github.com/noelledons/ecommerce-hair)
 
-**D**
-- [Drum Kit](https://github.com/noelledons/drum-kit) (JavaScript)
 
-<br>
+### Complete:
 
-**L**
-- [Login Authentication](https://github.com/noelledons/login-authentication) (JavaScript)
+:small_blue_diamond:[CV Template](https://github.com/noelledons/cv-template)
 
-<br>
+:small_blue_diamond:[Task Manager](https://github.com/noelledons/task-manager)
 
-**M**
-- [Meditation App](https://github.com/noelledons/meditationapp.github.io) (JavaScript)
+### :space_invader:Just for fun:
 
-<br>
+:small_blue_diamond:[Personal React Components](https://github.com/noelledons/donponents)
 
-**R**
-- [Roll the Dice](https://github.com/noelledons/roll-the-dice) (JavaScript)
+:small_blue_diamond:[Leetcode - JS](https://github.com/noelledons/Leetcode-js)
 
-<br>
-
-**T**
-- [Task Manager](https://github.com/noelledons/task-manager) (React App)
-- [Travel to Ghana Website](https://github.com/noelledons/travel-to-ghana) (JavaScript)
